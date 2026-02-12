@@ -3,17 +3,6 @@
 ## 🚀 About Me
 Full-stack developer passionate about creating beautiful, responsive web applications with modern technologies.
 
-## 💼 Featured Project
-### 🏢 [Yutaka Properties](https://github.com/Sakticahyaa/yutaka-properties)
-A premium real estate website showcasing investment properties in Jakarta and Yogyakarta. Built with React, TypeScript, and Tailwind CSS featuring dynamic routing, smooth animations, and responsive design.
-
-**Tech Stack:**
-- ⚛️ React 19 with TypeScript
-- 🎨 Tailwind CSS
-- 🛣️ React Router
-- ⚡ Vite
-- 🎭 Custom animations with Intersection Observer
-
 ## 🛠️ Technologies & Tools
 
 ### Frontend
