@@ -27,9 +27,17 @@ Information Engineering student at Gadjah Mada University (UGM) with a passion f
 
 ## 📊 GitHub Stats
 
-![Sakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakticahyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakticahyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakticahyaa&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakticahyaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakticahyaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</div>
 
 ## 🌟 Highlights
 - 🤖 Deep Learning & AI expertise with TensorFlow and Keras
